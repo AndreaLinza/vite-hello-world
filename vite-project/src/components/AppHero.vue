@@ -5,7 +5,13 @@ export default {
 </script>
 
 <template>
-    <img src="../assets/hero.jpg" alt="">
+    <div>
+        <img src="../assets/hero.jpg" alt="">
+    </div>
 </template>
 
-<style></style>
+<style>
+    img{
+        width: 100%;
+    }
+</style>
